@@ -8,6 +8,21 @@
   text-align: center;
 }
 
+#story {
+  color: white;
+  font-size: 25px;
+}
+
+mark.blue {
+  color: #93a8b5;
+  background: none;
+}
+
+mark.silver {
+  color: green;
+  background: none;
+}
+
 p {
   color: white;
   font-size: 40px;
